@@ -13,6 +13,18 @@ yambio | 21 | SS | 1619574536 | 96 | 4.5721 | 28.3955 | 67.05 | 4.05
 mataura | 100 | NZ | 1619574669 | 87 | -46.1927 | 168.8643 | 55.99 | 15.01
 gimli | 5 | CA | 1619574720 | 80 | 50.6336 | -96.9907 | 35.60 | 10.36
 
+Now let's work on some stadistic information about:
+
+* Cloudiness    
+* Country      
+* Date          
+* Humidity      
+* Lat           
+* Lng           
+* Max Temp      
+* Wind Speed   
+
+OK. now we need some graphs 
 
 ### Part I 
 
