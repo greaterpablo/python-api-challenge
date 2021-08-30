@@ -7,7 +7,7 @@ Once that we have the data, let's see what it comes.
 
 City | Cloudiness | Country	Date | Humidity | Lat | Lng | Max Temp | Wind Speed
 ---- | ---------- | ------------ | -------- | --- | --- | -------- | ----------
-0 | qaqortoq | 6 | GL | 1619574719 | 70 | 60.7167 | -46.0333 | 41.00	6.91
+qaqortoq | 6 | GL | 1619574719 | 70 | 60.7167 | -46.0333 | 41.00 | 6.91
 bernardino de campos | 81 | DO | 1619574719 | 77 | 18.8372 | -70.0172 | 77.00 | 1.01
 yambio | 21 | SS | 1619574536 | 96 | 4.5721 | 28.3955 | 67.05 | 4.05
 mataura | 100 | NZ | 1619574669 | 87 | -46.1927 | 168.8643 | 55.99 | 15.01
