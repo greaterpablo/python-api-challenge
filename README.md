@@ -16,7 +16,6 @@ There is a breaking point between lattitude and Temperature/Humidity in which la
 Trend 3
 Hemisphere trends, north and south are inverse related in temperature and latitude, that means that the more you are close to ecuador you probabaly feel more tempearature. We can say that humidity and latitude have a space relation, as you get latitude you could feel more humidity but a certain level you provably feel nothing more.
 
-C:\Users\pabli\python-api-challenge\WeatherPy\fig4.png
 ![Trend3](https://github.com/greaterpablo/python-api-challenge/blob/main/WeatherPy/fig3.png) 
 
 ### Part II
